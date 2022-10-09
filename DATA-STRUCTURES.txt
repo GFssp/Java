@@ -1,0 +1,17 @@
+[+] = USED
+
+ArrayList
+LinkedList
+Iterator
+ListIterator
+
+BUILD-IN METHODS
+
+ArrayList:
+
+- subList()
+- addFirst()
+- toArray()
+- Collections.sort(list)
+- Collections.frequency(list, word)
+- Collections.disjoint(lis1, list2) // has words in commom

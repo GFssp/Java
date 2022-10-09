@@ -1,0 +1,18 @@
+[+] = USED
+
+- charAt +
+- compareTo +
+- contains +
+- equals +
+- equalsIgnoreCase
+- format
+- isEmpty
+- indexOf +
+- lastIndexOf
+- length +
+- repeat 
+- replace 
+- startsWith
+- substring
+- toLowerCase +
+- toUpperCase
